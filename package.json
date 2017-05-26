@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/lXSPandora/Node-JS-Darksky-weather-CLI-Application.git",
+  "license": "MIT",
+  "devDependencies": {
+    "babel": "^6.23.0"
+  },
+  "dependencies": {
+    "node-fetch": "^1.7.0",
+    "yargs": "^8.0.1"
+  }
+}
